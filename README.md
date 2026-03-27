@@ -27,7 +27,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=matheesha-abiman&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha-abiman" /> 
+  <img src="https://komarev.com/ghpvc/?username=madushka1234&label=Profile%20views&color=0e75b6&style=flat" alt="madushka1234" /> 
 </p>
 
 ---
@@ -47,8 +47,6 @@
 - 💬 Ask me about **Software Development, Creative Visual Design**
   
 - 📫 How to reach me: **[madushkasenarathna06@gmail.com](mailto:madushkasenarathna06@gmail.com)**
-  
-- ⚡ Fun fact: **Call me Abi**
 
 ---
 
